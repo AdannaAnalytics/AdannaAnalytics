@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+### Hi there 👋, My name is Adanna
+#### Data and Design!
+![Data and Design!](https://media.licdn.com/dms/image/D4D16AQGWqK6j05ihIg/profile-displaybackgroundimage-shrink_350_1400/0/1681382320148?e=1691625600&v=beta&t=X3WF9iBITjYQf4dfvROm73Jq08R9Gt0ZZYz-qfMZ5wA)
+
 I’m Adanna, a data analyst and visualization expert with a background in Public Health (MPH). I have experience working with International Non Governmental Organizations where I spent over 8 years working with Maternal and Child Health and Nutrition datasets. I am currently transitioning to data analytics because I really enjoy working with data and creating visually appealing data-driven dynamic and interactive dashboards. I post content and relevant resources every other day on my social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium. PS: I am also passionate about design (I am a UI/UX designer!). You can check me out on LinkedIn at https://www.linkedin.com/in/adannaopara/ on Twitter at https://twitter.com/AdannaOpara1.
+
+
+Skills: Excel | Power BI | Tableau | SQL | Google Data Studio | Figma
+
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdannaAnalytics)](https://github.com/anuraghazra/github-readme-stats)
 
