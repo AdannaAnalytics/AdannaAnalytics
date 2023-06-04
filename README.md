@@ -1,12 +1,13 @@
 ### Hi there 👋
 
- Hello, I’m Adanna, a data analyst and visualization expert. 
+I’m Adanna, a data analyst and visualization expert with a background in Public Health (MPH). I have experience working with International Non Governmental Organizations where I spent over 8 years working with Maternal and Child Health and Nutrition datasets. I am currently transitioning to data analytics because I really enjoy working with data and creating visually appealing data-driven dynamic and interactive dashboards. I post content and relevant resources every other day on my social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium. PS: I am also passionate about design (I am a UI/UX designer!). You can check me out on LinkedIn at https://www.linkedin.com/in/adannaopara/ on Twitter at https://twitter.com/AdannaOpara1.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdannaAnalytics)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 
 🙋🏽‍♀️About Me
-	I am currently searching for a full-time job as a Data Analyst, Power BI Specialist or Data Visualization Expert
-	I have a 1st degree in Biochemistry and a 2nd degree in Public Health (MPH) and have spent over 8 years working with Maternal and Child Health and Nutrition datasets.
-	I am currently transitioning to data analytics and post my progress every other day and relevant resources on social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium.
-	I love learning new skills and I am also passionate about design (…I am also a UI/UX designer!).
+	
 
 ⚒️Skills and Tools
 	Tools:
