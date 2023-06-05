@@ -3,6 +3,7 @@
 #Hi there 👋, I’m Adanna, a data analyst and visualization expert with a background in Public Health (MPH). I have experience working with International Non Governmental Organizations where I spent over 8 years working with Maternal and Child Health and Nutrition datasets. I am currently transitioning to data analytics because I really enjoy working with data and creating visually appealing data-driven dynamic and interactive dashboards. I post content and relevant resources every other day on my social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium. PS: I am also passionate about design (I am a UI/UX designer!). You can check me out on LinkedIn at https://www.linkedin.com/in/adannaopara/ on Twitter at https://twitter.com/AdannaOpara1.
 
 ##Tools and Skills
+
 * ✏️Excel
 * ✏️Power BI
 * ✏️Tableau
@@ -23,12 +24,15 @@ https://youtu.be/bpVShmPbdW8
 
 
 ##🗂️Projects
+
 	View my portfolio projects on my website" https://adannaanalytics.vzy.io/
+
 	View my coding projects on Github: https://github.com/AdannaAnalytics
 
 
 
 ##✨Favorite Projects
+
 	[Global Superstore Sales Performance Report](https://www.mavenanalytics.io/project/5675) – Analyzed the company’s 3- years (2011 – 2014) sales dataset using Power BI. Focused on measuring key metrics such as the total number of customers, total order quantity, total sales, total profit, profit margin, and total return quantity. View repository here:
 
 	[SQL City Murder Mystery](https://www.mavenanalytics.io/project/6146): Helped the residents of SQL City's fundraising committee raise funds for its annual festival, sorted out the number of people driving different makes of cars, and solved a murder in the neighbourhood using PostgreSQL. View repository here: .
@@ -44,10 +48,15 @@ https://youtu.be/bpVShmPbdW8
 ##📬Connect with Me
 
 [Website](https://adannaanalytics.vzy.io/)
+
 [LinkedIn](https://www.linkedin.com/in/adannaopara/)
+
 [Twitter](https://twitter.com/AdannaOpara1)
+
 [Medium](https://medium.com/@adanna.analytics)
+
 [Facebook](https://web.facebook.com/adanna.opara.9)
+
 [Email](adanna.analytics@gmail.com)
 
 
