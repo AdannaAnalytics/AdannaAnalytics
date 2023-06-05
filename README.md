@@ -14,11 +14,25 @@
 * ✏️Google Data Studio
 
 
-![alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/Maven%20Family%20Leave%20Poilicy%20Image.jpeg) "Maven Family Leave Policies")
+![alt_text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/School%20Management%20Dashboard.jpeg)
+[Data Hub School Management Dashboard](https://www.mavenanalytics.io/project/3237)
+
+
+
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XKDAhxeTiVg
+" target="_blank"><img src="http://img.youtube.com/vi/XKDAhxeTiVg/0.jpg" 
+alt="![alt_text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/School%20Management%20Dashboard.jpeg)
+[Data Hub School Management Dashboard](https://www.mavenanalytics.io/project/3237)" width="240" height="180" border="10" /></a>
+
+
+
+
+![alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/Maven%20Family%20Leave%20Poilicy%20Image.jpeg)
 [Maven Parental Leave Policies](https://www.mavenanalytics.io/project/4644)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AdannaAnalytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adannaopara//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/adanna.opara.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AdannaOpara1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21986117/adanna-analytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCcukXYNI1ePLV0l59d70roA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adannaanalytics.vzy.io/)  
 
 
 ##🗂️Projects
@@ -45,7 +59,11 @@
 
 	[Data Hub School Management Dashboard](https://www.mavenanalytics.io/project/3237) – Created a school management dashboard using MS Excel. Focused on the performance of the top 3 students in the school. View the Data Hub Academy dashboard here. View repository here: .
 
+
+
 ##📬Connect with Me
+
+
 
 [Website](https://adannaanalytics.vzy.io/)
 
