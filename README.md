@@ -19,12 +19,7 @@ https://youtu.be/bpVShmPbdW8
 ![alt text](https://www.youtube.com/watch?v=bpVShmPbdW8&t=75s) "Maven Family Leave Policies") 
 
 
-
-
-bpVShmPbdW8&t=75s
-
-
-- 📫 How to reach me: adanna.analytics@gmail.com 
+[alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/ADANNA.mp4) "Maven Family Leave Policies")
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AdannaAnalytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adannaopara//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/adanna.opara.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AdannaOpara1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21986117/adanna-analytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCcukXYNI1ePLV0l59d70roA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adannaanalytics.vzy.io/)  
