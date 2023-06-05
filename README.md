@@ -1,6 +1,7 @@
 ![](https://media.licdn.com/dms/image/D4D16AQGWqK6j05ihIg/profile-displaybackgroundimage-shrink_350_1400/0/1681382320148?e=1691625600&v=beta&t=X3WF9iBITjYQf4dfvROm73Jq08R9Gt0ZZYz-qfMZ5wA)
 
-#Hi there 👋, I’m Adanna, a data analyst and visualization expert with a background in Public Health (MPH). I have experience working with International Non Governmental Organizations where I spent over 8 years working with Maternal and Child Health and Nutrition datasets. I am currently transitioning to data analytics because I really enjoy working with data and creating visually appealing data-driven dynamic and interactive dashboards. I post content and relevant resources every other day on my social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium. PS: I am also passionate about design (I am a UI/UX designer!). You can check me out on LinkedIn at https://www.linkedin.com/in/adannaopara/ on Twitter at https://twitter.com/AdannaOpara1.
+#Hi there 👋, I’m Adanna, a data analyst and visualization expert with a background in Public Health (MPH). I have experience working with International Non Governmental Organizations where I spent over 8 years working with Maternal and Child Health and Nutrition datasets. I am currently transitioning to data analytics because I really enjoy working with data and creating visually appealing data-driven dynamic and interactive dashboards. I post content and relevant resources every other day on my social media pages (LinkedIn, Twitter, Facebook) and on my blog on Medium. PS: I am also passionate about design (I am a UI/UX designer!). 
+
 
 ##Tools and Skills
 
@@ -12,14 +13,9 @@
 * ✏️Canva
 * ✏️Google Data Studio
 
-https://youtu.be/bpVShmPbdW8
 
 ![alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/Maven%20Family%20Leave%20Poilicy%20Image.jpeg) "Maven Family Leave Policies")
-
-![alt text](https://www.youtube.com/watch?v=bpVShmPbdW8&t=75s) "Maven Family Leave Policies") 
-
-
-[alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/ADANNA.mp4) "Maven Family Leave Policies")
+[Maven Parental Leave Policies](https://www.mavenanalytics.io/project/4644)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AdannaAnalytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adannaopara//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/adanna.opara.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AdannaOpara1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21986117/adanna-analytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCcukXYNI1ePLV0l59d70roA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adannaanalytics.vzy.io/)  
