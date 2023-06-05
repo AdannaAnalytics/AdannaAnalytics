@@ -14,9 +14,7 @@
 
 https://youtu.be/bpVShmPbdW8
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bpVShmPbdW8&t=75s
-" target="_blank"><img src="http://img.youtube.com/vi/bpVShmPbdW8&t=75s/0.jpg" 
-alt="![alt text](https://github.com/[adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/Maven%20Family%20Leave%20Poilicy%20Image.jpeg) "Maven Family Leave Policies")" width="240" height="180" border="10" /></a>
+![alt text](https://github.com/AdannaAnalytics/AdannaAnalytics/blob/main/Maven%20Family%20Leave%20Poilicy%20Image.jpeg) "Maven Family Leave Policies")
 
 
 
