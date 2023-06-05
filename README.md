@@ -14,7 +14,14 @@
 
 https://youtu.be/bpVShmPbdW8
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bpVShmPbdW8&t=75s
+" target="_blank"><img src="http://img.youtube.com/vi/bpVShmPbdW8&t=75s/0.jpg" 
+alt="MAVEN FAMILY LEAVE POLICIES" width="240" height="180" border="10" /></a>
 
+
+
+
+bpVShmPbdW8&t=75s
 
 
 - 📫 How to reach me: adanna.analytics@gmail.com 
@@ -25,6 +32,7 @@ https://youtu.be/bpVShmPbdW8
 
 ##🗂️Projects
 
+
 	View my portfolio projects on my website" https://adannaanalytics.vzy.io/
 
 	View my coding projects on Github: https://github.com/AdannaAnalytics
@@ -32,6 +40,7 @@ https://youtu.be/bpVShmPbdW8
 
 
 ##✨Favorite Projects
+
 
 	[Global Superstore Sales Performance Report](https://www.mavenanalytics.io/project/5675) – Analyzed the company’s 3- years (2011 – 2014) sales dataset using Power BI. Focused on measuring key metrics such as the total number of customers, total order quantity, total sales, total profit, profit margin, and total return quantity. View repository here:
 
